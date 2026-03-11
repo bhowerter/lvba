@@ -8,12 +8,12 @@
 
 **Edmundston Woolf**
 **Romy Gonzalez 3B.
-Miguel Andujar RF.
-Riley Greene RF.**
+- Miguel Andujar RF.
+- Riley Greene RF.**
 
 **Fruitland Park Trash Pandas**
 **Edmundo Sosa LF.
-Josh Smith 2B.**
+- Josh Smith 2B.**
 
 **Hotlanta Hustlers**
 **Maikel Garcia RF.**
