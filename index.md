@@ -3,7 +3,7 @@ title: LVBA 2026 Documents
 ---
 # LVBA 2026 Files
 
-- [Draft Pick Trades](LVBA-2026-Draft-Pick-Trades.md)
-- [Loss of Fielding Rating](LVBA-2026-Loss-Of-Fielding-Rating.md)
-- [Trades](LVBA-2026-Trades.md)
-- [Roster Moves](LVBA-2026-Roster-Moves.md)
+- [Draft Pick Trades](2026-draft-picks-trades.md)
+- [Loss of Fielding Rating](2026-loss-of-fielding-rating.md)
+- [Trades](2026-trades.md)
+- [Roster Moves](2026-roster-moves.md)
