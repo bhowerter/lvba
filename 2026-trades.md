@@ -1,0 +1,25 @@
+# LVBA 2026 Pre-Season and In Season Trades
+
+**Owls** trade Ketel Marte to the Royal Raiders for Will Smith.
+
+**Knight** trade Brent Rooker to the Woolf for their 4th round pick.
+
+**Rebels** trade Eugenio Suarez to the Woolf for their 3rd round pick.
+
+**Hustlers** trade Grayson Rodriguez to the Owls for their 12th round pick.
+
+**Trash Pandas** trade William Contreras to the Devil Dogs for Bayan Bello.
+
+**Devil Dogs** trade Ryan Pepiot to the Royal Raiders for their 3rd round pick.
+
+**Hustlers** trade the Owls 12th round pick back to the Owls for Blake Snell.
+
+**Hustlers** trade JT Realmuto to the Woolf for their 8th round pick.
+
+**Owls** trade Rasiel Iglesias to the Rebels for their 13th round pick.
+
+**Devil Dogs** trade Tyler Rogers to the Knights for their 8th round pick.
+
+**Devil Dogs** trades Shane Baz and Pete Fairbanks to the Rebels for their 10th and 11th round picks.
+
+**Royal Raiders** trade Rafael Devers to the Rebels for their 6th round pick.
