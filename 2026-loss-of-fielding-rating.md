@@ -11,7 +11,6 @@
 - Miguel Andujar RF
 - Riley Greene RF
 - Brent Rooker LF
-- Corbin Carroll CF
 
 **Fruitland Park Trash Pandas**
 - Edmundo Sosa LF
@@ -24,5 +23,6 @@
 
 **Monticello Devil Dogs**
 - Brandon Nimmo CF
+- Corbin Carroll CF
 
 **South Carolina Rebels**
