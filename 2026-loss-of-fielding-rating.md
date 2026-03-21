@@ -15,11 +15,13 @@
 **Fruitland Park Trash Pandas**
 - Edmundo Sosa LF
 - Josh Smith 2B
+- Seiya Suzuki RF
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
 
 **Minneola Knights**
+- Miguel Rojas 3B
 
 **Monticello Devil Dogs**
 - Brandon Nimmo CF
