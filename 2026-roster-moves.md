@@ -24,6 +24,7 @@
 - Hunter Greene to IL, Blake Snell up
 - Hunter Greene off IL, Blake Snell down
 - Hyeseong Kim down, Zack McKinstry up. Position move 1
+- Brenton Doyle to IL, Hy Kim up.
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
