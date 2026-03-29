@@ -17,6 +17,8 @@
 - Jackson Merrill to IL, Kerry Carpenter up
 - Bo Bichette to IL, Sal Frelick up
 - Kerry Carpenter down, Luke Weaver up. Pitching move 1
+- 20260325 Bo Bichette off IL, Romy Gonzalez down
+- 20260325 Jackson Merrill off IL, Elly de la Cruz down
 
 **Fruitland Park Trash Pandas**
 
@@ -24,6 +26,7 @@
 - Hunter Greene to IL, Blake Snell up
 - Hunter Greene off IL, Blake Snell down
 - Hyeseong Kim down, Zack McKinstry up. Position move 1
+- 20260321 Brenton Doyle to IL, Hy Kim up
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up

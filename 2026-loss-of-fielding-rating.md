@@ -16,6 +16,7 @@
 - Edmundo Sosa LF
 - Josh Smith 2B
 - Seiya Suzuki RF
+- Jakob Marsee LF
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
