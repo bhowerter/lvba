@@ -6,6 +6,7 @@
 - Luke Keaschall off IL, Hurston Waldrup down
 - Kyle Stowers off IL, Brayden Fisher down
 - Daulton Varsho to IL, Brayden Fisher up
+- Tarik Skubal to IL, Cole Ragans up 20260403
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -17,8 +18,8 @@
 - Jackson Merrill to IL, Kerry Carpenter up
 - Bo Bichette to IL, Sal Frelick up
 - Kerry Carpenter down, Luke Weaver up. Pitching move 1
-- 20260325 Bo Bichette off IL, Romy Gonzalez down
-- 20260325 Jackson Merrill off IL, Elly de la Cruz down
+- Bo Bichette off IL, Romy Gonzalez down 20260325 
+- Jackson Merrill off IL, Elly de la Cruz down 20260325 
 
 **Fruitland Park Trash Pandas**
 
@@ -26,7 +27,7 @@
 - Hunter Greene to IL, Blake Snell up
 - Hunter Greene off IL, Blake Snell down
 - Hyeseong Kim down, Zack McKinstry up. Position move 1
-- 20260321 Brenton Doyle to IL, Hy Kim up
+- Brenton Doyle to IL, Hy Kim up 20260321 
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
