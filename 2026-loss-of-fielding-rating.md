@@ -17,6 +17,7 @@
 - Josh Smith 2B
 - Seiya Suzuki RF
 - Jakob Marsee LF
+- Jorge Polcano 2B 20260403
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
