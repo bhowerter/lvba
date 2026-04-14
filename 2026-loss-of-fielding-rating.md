@@ -24,6 +24,9 @@
 
 **Minneola Knights**
 - Miguel Rojas 3B
+- Jose Caballero LF 20260410
+- George Springer LF 20260410
+- Miguel Rojas 1B 20260410
 
 **Monticello Devil Dogs**
 - Brandon Nimmo CF
