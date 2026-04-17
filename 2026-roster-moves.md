@@ -13,6 +13,8 @@
 - Matt Boyd down, Brennan Bernardino up. Pitching move 2
 - Brennan Bernardino down, Matt Boyd up. Pitching move 3
 - Framber Valdez to IL, Ryan Pepiot up
+- Jordan Westburg down, Brett Baty up. Position move 1
+- Noah Cameron activated, Pete Fairbanks down
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up
