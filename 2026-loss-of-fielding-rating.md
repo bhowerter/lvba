@@ -2,6 +2,7 @@
 
 **Asheville Owls**
 - Colson Montgomery 3B
+- Ivan Herrera C
 
 **Chester Royal Raiders**
 - Jarren Duran RF
