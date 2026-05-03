@@ -7,13 +7,8 @@
 - Kyle Stowers off IL, Brayden Fisher down
 - Daulton Varsho to IL, Brayden Fisher up
 - Tarik Skubal to IL, Cole Ragans up 20260403
-<<<<<<< HEAD
-- Tarik Skubal activated, Cole Ragans down
-- Kris Bubic demoted, Trevor Rogers promoted. Pitching move 1
-=======
 - Cole Ragans down, Skubal activated
 - Kris Bubic down, Trevor Rogers up. Pitching move 1. 20260425
->>>>>>> 39957b13b23b9e937d7f801a2434b3d794e5973d
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
