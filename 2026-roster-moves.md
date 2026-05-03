@@ -7,6 +7,8 @@
 - Kyle Stowers off IL, Brayden Fisher down
 - Daulton Varsho to IL, Brayden Fisher up
 - Tarik Skubal to IL, Cole Ragans up 20260403
+- Tarik Skubal activated, Cole Ragans down
+- Kris Bubic demoted, Trevor Rogers promoted. Pitching move 1
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -14,7 +16,7 @@
 - Brennan Bernardino down, Matt Boyd up. Pitching move 3
 - Framber Valdez to IL, Ryan Pepiot up
 - Jordan Westburg down, Brett Baty up. Position move 1
-- Noah Cameron activated, Pete Fairbanks down
+- Framber Valdez activated, Ryan Pepiot down.
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up
@@ -42,3 +44,4 @@
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
 - Noah Cameron to IL, Pete Fairbanks up
+- Noah Cameron activated, Pete Fairbanks down
