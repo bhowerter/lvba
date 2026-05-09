@@ -9,6 +9,7 @@
 - Tarik Skubal to IL, Cole Ragans up 20260403
 - Cole Ragans down, Skubal activated
 - Kris Bubic down, Trevor Rogers up. Pitching move 1. 20260425
+- Gunnar Henderson to IL, Austin Wells up 20260505
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -32,6 +33,7 @@
 - Hunter Greene off IL, Blake Snell down
 - Hyeseong Kim down, Zack McKinstry up. Position move 1
 - Brenton Doyle to IL, Hy Kim up 20260321 
+- Hunter Green down, Blake Snell up 20260505
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
@@ -40,6 +42,11 @@
 
 **Monticello Devil Dogs**
 - Steven Okert down, Jacob Misiorowski up. Pitching move 1
+- Estrada down, Holliday up. Position move 1
+- Neto down, O'Brien up. Pitching move 2
+- Pasquantino down, Rasmussen up. Pitching move 3
+- Rice down, Schwellenbach up. Pitching move 4.
+- Kurtz to IL, Pasquantino up.
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1

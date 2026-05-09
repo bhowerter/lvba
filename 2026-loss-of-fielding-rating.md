@@ -32,5 +32,6 @@
 **Monticello Devil Dogs**
 - Brandon Nimmo CF
 - Corbin Carroll CF
+- Brandon Lowe 1B 20260509
 
 **South Carolina Rebels**
