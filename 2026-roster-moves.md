@@ -10,6 +10,7 @@
 - Cole Ragans down, Skubal activated
 - Kris Bubic down, Trevor Rogers up. Pitching move 1. 20260425
 - Gunnar Henderson to IL, Austin Wells up 20260505
+- Wyatt Langford to IL, Masyn Winn up 20260513
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -27,6 +28,7 @@
 - Jackson Merrill off IL, Elly de la Cruz down 20260325 
 
 **Fruitland Park Trash Pandas**
+- Brayan Bello to IL, Corbin Burnes up. 20260517
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -52,3 +54,4 @@
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
 - Noah Cameron to IL, Pete Fairbanks up
 - Noah Cameron activated, Pete Fairbanks down
+
