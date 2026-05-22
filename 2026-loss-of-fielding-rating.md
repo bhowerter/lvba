@@ -22,6 +22,7 @@
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
+- Maikel Garcia 2B 20260522
 
 **Minneola Knights**
 - Miguel Rojas 3B
@@ -33,5 +34,6 @@
 - Brandon Nimmo CF
 - Corbin Carroll CF
 - Brandon Lowe 1B 20260509
+- Jackson Holliday SS 20260522
 
 **South Carolina Rebels**

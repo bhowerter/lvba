@@ -11,6 +11,7 @@
 - Kris Bubic down, Trevor Rogers up. Pitching move 1. 20260425
 - Gunnar Henderson to IL, Austin Wells up 20260505
 - Wyatt Langford to IL, Masyn Winn up 20260513
+- Gunnar Henderson activated, Masyn Winn down. 20260522
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -49,6 +50,7 @@
 - Pasquantino down, Rasmussen up. Pitching move 3
 - Rice down, Schwellenbach up. Pitching move 4.
 - Kurtz to IL, Pasquantino up.
+- Nick Kurtz activated, B Lowe down.
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
