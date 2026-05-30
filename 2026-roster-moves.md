@@ -12,6 +12,9 @@
 - Gunnar Henderson to IL, Austin Wells up 20260505
 - Wyatt Langford to IL, Masyn Winn up 20260513
 - Gunnar Henderson activated, Masyn Winn down. 20260522
+- Wyatt Langford activated, Keaschall down. 20260527
+- Tommy Nance farmed (usage), Jusin Slaten up. 20260527
+- Anthony Bender farmed, Hurston Waldrep up. Pitching move 2. 20260527
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
