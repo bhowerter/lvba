@@ -45,6 +45,7 @@
 - Bennett Sousa to IL, Felix Bautista up
 - Clayton Kershaw down, Reese Olson up. Pitching move 1
 - Bennett Sousa off IL, Felix Bautista down
+- Lucas Giolito to IL, Tyler Mahle up. 20260607
 
 **Monticello Devil Dogs**
 - Steven Okert down, Jacob Misiorowski up. Pitching move 1
