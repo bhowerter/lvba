@@ -55,6 +55,8 @@
 - Rice down, Schwellenbach up. Pitching move 4.
 - Kurtz to IL, Pasquantino up.
 - Nick Kurtz activated, B Lowe down.
+- Tovar to IL, Neto up.
+- Nimmo down, Roman Anthony up. Hitting move 1.
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
