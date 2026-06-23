@@ -15,6 +15,7 @@
 - Wyatt Langford activated, Keaschall down. 20260527
 - Tommy Nance farmed (usage), Jusin Slaten up. 20260527
 - Anthony Bender farmed, Hurston Waldrep up. Pitching move 2. 20260527
+- Bazardo farmed, Erik Miller up. Pitching move 3. 20260618
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -62,4 +63,4 @@
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
 - Noah Cameron to IL, Pete Fairbanks up
 - Noah Cameron activated, Pete Fairbanks down
-
+- Dreyer promoted, Swanson down, trade move

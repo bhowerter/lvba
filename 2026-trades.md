@@ -11,3 +11,6 @@
 -Devil Dogs trade Tyler Rogers to the Knights for their 8th round pick.  
 -Devil Dogs trades Shane Baz and Pete Fairbanks to the Rebels for their 10th and 11th round picks.  
 -Royal Raiders trade Rafael Devers to the Rebels for their 6th round pick.
+
+## In Season
+-Rebels trade Jose Altuve and Tanner Bibee to Woolf for Brice Turang and Jack Dreyer
