@@ -34,6 +34,7 @@
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
+- Bello activated, Burnes demoted. 20260624
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -58,6 +59,7 @@
 - Nick Kurtz activated, B Lowe down.
 - Tovar to IL, Neto up.
 - Nimmo down, Roman Anthony up. Hitting move 1.
+- Neto to IL, Royce Lewis up. 20260627
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
