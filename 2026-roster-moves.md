@@ -16,6 +16,9 @@
 - Tommy Nance farmed (usage), Jusin Slaten up. 20260527
 - Anthony Bender farmed, Hurston Waldrep up. Pitching move 2. 20260527
 - Bazardo farmed, Erik Miller up. Pitching move 3. 20260618
+- Eovaldi farmed, Bubic up. Pitching move 4. 20260630
+- Fisher farmed, Bender up. Pitching move 5. 20260630
+- Montgomery farmed, Bazardo up. Pitching move 6. 20260630
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -35,6 +38,7 @@
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
 - Bello activated, Burnes demoted. 20260624
+- Adam to IL, Jensen up. 20260703
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -66,3 +70,4 @@
 - Noah Cameron to IL, Pete Fairbanks up
 - Noah Cameron activated, Pete Fairbanks down
 - Dreyer promoted, Swanson down, trade move
+- R. Nelson to IL, Shane Baz up 20260703
