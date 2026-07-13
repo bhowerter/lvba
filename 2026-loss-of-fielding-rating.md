@@ -13,6 +13,7 @@
 - Riley Greene RF
 - Brent Rooker LF
 - Brent Rooker RF 20260627
+- Miguel Andujar 1B 20260708
 
 **Fruitland Park Trash Pandas**
 - Edmundo Sosa LF

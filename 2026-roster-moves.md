@@ -46,12 +46,15 @@
 - Hyeseong Kim down, Zack McKinstry up. Position move 1
 - Brenton Doyle to IL, Hy Kim up 20260321 
 - Hunter Green down, Blake Snell up 20260505
+- Doyle activated, Kim down 20260705
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
 - Clayton Kershaw down, Reese Olson up. Pitching move 1
 - Bennett Sousa off IL, Felix Bautista down
 - Lucas Giolito to IL, Tyler Mahle up. 20260607
+- Giolito off IL, Kolek down. 20260708
+
 
 **Monticello Devil Dogs**
 - Steven Okert down, Jacob Misiorowski up. Pitching move 1
@@ -70,4 +73,6 @@
 - Noah Cameron to IL, Pete Fairbanks up
 - Noah Cameron activated, Pete Fairbanks down
 - Dreyer promoted, Swanson down, trade move
+- Josh Naylor to IL
 - R. Nelson to IL, Shane Baz up 20260703
+- Josh Naylor activated, Jake Mangum farmed
