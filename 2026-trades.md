@@ -14,3 +14,4 @@
 
 ## In Season
 -Rebels trade Jose Altuve and Tanner Bibee to Woolf for Brice Turang and Jack Dreyer
+-Devil Dogs trade Riley O'Brien to Minneola Knights for Carlos Estevez and 8th Rd Pick.
