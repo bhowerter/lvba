@@ -47,6 +47,8 @@
 - Brenton Doyle to IL, Hy Kim up 20260321 
 - Hunter Green down, Blake Snell up 20260505
 - Doyle activated, Kim down 20260705
+- Seager to IL, Trout up 20260718
+- Finnegan down, Brash up, Pitching move #2. 20260718
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
@@ -54,6 +56,7 @@
 - Bennett Sousa off IL, Felix Bautista down
 - Lucas Giolito to IL, Tyler Mahle up. 20260607
 - Giolito off IL, Kolek down. 20260708
+- O'Brien down after trading for him.
 
 
 **Monticello Devil Dogs**
@@ -66,7 +69,7 @@
 - Nick Kurtz activated, B Lowe down.
 - Tovar to IL, Neto up.
 - Nimmo down, Roman Anthony up. Hitting move 1.
-- Neto to IL, Royce Lewis up. 20260627
+- Estevez up after trading for him. 
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
@@ -76,3 +79,4 @@
 - Josh Naylor to IL
 - R. Nelson to IL, Shane Baz up 20260703
 - Josh Naylor activated, Jake Mangum farmed
+- Aaron Judge to IL, Mangum up 20260719

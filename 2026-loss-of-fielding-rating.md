@@ -21,6 +21,7 @@
 - Seiya Suzuki RF
 - Jakob Marsee LF
 - Jorge Polcano 2B 20260403
+- Edmundo Sosa SS 20260718
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
@@ -37,5 +38,7 @@
 - Corbin Carroll CF
 - Brandon Lowe 1B 20260509
 - Jackson Holliday SS 20260522
+- Ronald Acuna farmed due to usage.
 
 **South Carolina Rebels**
+- Chandler Simpson RF 20260718
