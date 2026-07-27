@@ -19,6 +19,7 @@
 - Eovaldi farmed, Bubic up. Pitching move 4. 20260630
 - Fisher farmed, Bender up. Pitching move 5. 20260630
 - Montgomery farmed, Bazardo up. Pitching move 6. 20260630
+- Keaschall promoted, Varsho down. Hitter move #1
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -34,6 +35,7 @@
 - Kerry Carpenter down, Luke Weaver up. Pitching move 1
 - Bo Bichette off IL, Romy Gonzalez down 20260325 
 - Jackson Merrill off IL, Elly de la Cruz down 20260325 
+- Xavier Edwards to IL, Carpenter up
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
@@ -70,6 +72,9 @@
 - Tovar to IL, Neto up.
 - Nimmo down, Roman Anthony up. Hitting move 1.
 - Estevez up after trading for him. 
+- Kurtz to IL, Rice up
+- Nimmo up, Acuna farmed (usage)
+- Strider up, Perez farmed Pitching move 5.
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
