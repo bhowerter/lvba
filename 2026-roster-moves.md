@@ -85,3 +85,4 @@
 - R. Nelson to IL, Shane Baz up 20260703
 - Josh Naylor activated, Jake Mangum farmed
 - Aaron Judge to IL, Mangum up 20260719
+- Nelson activated from IL, Baz demoted
