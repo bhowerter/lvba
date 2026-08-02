@@ -28,6 +28,7 @@
 - Framber Valdez to IL, Ryan Pepiot up
 - Jordan Westburg down, Brett Baty up. Position move 1
 - Framber Valdez activated, Ryan Pepiot down.
+- Strahm up, Kinley down. Pitching move 4.
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up
@@ -36,11 +37,14 @@
 - Bo Bichette off IL, Romy Gonzalez down 20260325 
 - Jackson Merrill off IL, Elly de la Cruz down 20260325 
 - Xavier Edwards to IL, Carpenter up
+- Horton, Cabrera and Frelick down.  Bibee, Sale and Santilan up.
+Horton was a usage move. Pitching moves 2 and 3.
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
 - Bello activated, Burnes demoted. 20260624
 - Adam to IL, Jensen up. 20260703
+- Polanco to IL, Bahm up
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -75,6 +79,7 @@
 - Kurtz to IL, Rice up
 - Nimmo up, Acuna farmed (usage)
 - Strider up, Perez farmed Pitching move 5.
+- Tovar activated from IL, Anthony farmed
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
@@ -86,3 +91,4 @@
 - Josh Naylor activated, Jake Mangum farmed
 - Aaron Judge to IL, Mangum up 20260719
 - Nelson activated from IL, Baz demoted
+- Judge ativated, Mangum down
