@@ -55,6 +55,8 @@ Horton was a usage move. Pitching moves 2 and 3.
 - Doyle activated, Kim down 20260705
 - Seager to IL, Trout up 20260718
 - Finnegan down, Brash up, Pitching move #2. 20260718
+- Seager off IL, Trout down
+- Gray up, Williams down. Pithing move #3.
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
