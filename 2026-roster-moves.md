@@ -29,6 +29,7 @@
 - Jordan Westburg down, Brett Baty up. Position move 1
 - Framber Valdez activated, Ryan Pepiot down.
 - Strahm up, Kinley down. Pitching move 4.
+- Trevor Megill down usage.
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up

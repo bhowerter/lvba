@@ -14,6 +14,7 @@
 - Brent Rooker LF
 - Brent Rooker RF 20260627
 - Miguel Andujar 1B 20260708
+- Yandy Diaz 1B
 
 **Fruitland Park Trash Pandas**
 - Edmundo Sosa LF
@@ -22,10 +23,12 @@
 - Jakob Marsee LF
 - Jorge Polcano 2B 20260403
 - Edmundo Sosa SS 20260718
+- Wheeler farmed usage, Bradish up
 
 **Hotlanta Hustlers**
 - Maikel Garcia RF
 - Maikel Garcia 2B 20260522
+- Harison Bader RF
 
 **Minneola Knights**
 - Miguel Rojas 3B
