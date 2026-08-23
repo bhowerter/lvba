@@ -66,6 +66,7 @@ Horton was a usage move. Pitching moves 2 and 3.
 - Lucas Giolito to IL, Tyler Mahle up. 20260607
 - Giolito off IL, Kolek down. 20260708
 - O'Brien down after trading for him.
+- Sousa farmed for usage, Bautista up
 
 
 **Monticello Devil Dogs**
@@ -83,6 +84,9 @@ Horton was a usage move. Pitching moves 2 and 3.
 - Nimmo up, Acuna farmed (usage)
 - Strider up, Perez farmed Pitching move 5.
 - Tovar activated from IL, Anthony farmed
+- Holiday to IL, Lowe up. 
+- Kurtz off IL, Rice down.
+- Ryan to IL, Eury Perez up
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
@@ -95,3 +99,5 @@ Horton was a usage move. Pitching moves 2 and 3.
 - Aaron Judge to IL, Mangum up 20260719
 - Nelson activated from IL, Baz demoted
 - Judge ativated, Mangum down
+- Chandler Simpson down usage
+- Raisel Iglesias down usage
