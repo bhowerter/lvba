@@ -45,3 +45,4 @@
 
 **South Carolina Rebels**
 - Chandler Simpson RF 20260718
+- Fermin to IL, Bailey promoted

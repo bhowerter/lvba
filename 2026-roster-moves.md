@@ -38,8 +38,8 @@
 - Bo Bichette off IL, Romy Gonzalez down 20260325 
 - Jackson Merrill off IL, Elly de la Cruz down 20260325 
 - Xavier Edwards to IL, Carpenter up
-- Horton, Cabrera and Frelick down.  Bibee, Sale and Santilan up.
-Horton was a usage move. Pitching moves 2 and 3.
+- Horton, Cabrera and Frelick down.  Bibee, Sale and Santilan up.  Horton was a usage move. Pitching moves 2 and 3.
+- Gilbert farmed usage, Kirby up
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
@@ -58,6 +58,7 @@ Horton was a usage move. Pitching moves 2 and 3.
 - Finnegan down, Brash up, Pitching move #2. 20260718
 - Seager off IL, Trout down
 - Gray up, Williams down. Pithing move #3.
+- Leither farmed, Williams up. Pitching move #4.
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
