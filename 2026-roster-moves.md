@@ -30,6 +30,8 @@
 - Framber Valdez activated, Ryan Pepiot down.
 - Strahm up, Kinley down. Pitching move 4.
 - Trevor Megill down usage.
+- Sheehan down (usage), Garrett up.
+- Torkelson down, Westburg up. Position move 2.
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up
@@ -46,6 +48,7 @@
 - Bello activated, Burnes demoted. 20260624
 - Adam to IL, Jensen up. 20260703
 - Polanco to IL, Bahm up
+- Polanco activated, Sosa down
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -88,6 +91,8 @@
 - Holiday to IL, Lowe up. 
 - Kurtz off IL, Rice down.
 - Ryan to IL, Eury Perez up
+- Perez down (usage), Cruz up
+- Strider to IL, Estrada up
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
