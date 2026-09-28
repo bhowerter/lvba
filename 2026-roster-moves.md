@@ -20,6 +20,8 @@
 - Fisher farmed, Bender up. Pitching move 5. 20260630
 - Montgomery farmed, Bazardo up. Pitching move 6. 20260630
 - Keaschall promoted, Varsho down. Hitter move #1
+- Gunnar Henderson, Brayden Fisher. September call ups.
+- Luke Keaschall down, DL Hall up. Usage move.
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -32,6 +34,8 @@
 - Trevor Megill down usage.
 - Sheehan down (usage), Garrett up.
 - Torkelson down, Westburg up. Position move 2.
+- Emmet Sheehan down, Reed Garrett up. Usage move.
+- Brett Baty, Spencer Torkelson. September call ups.
 
 **Edmundston Woolf**
 - Jackson Merrill to IL, Kerry Carpenter up
@@ -42,6 +46,11 @@
 - Xavier Edwards to IL, Carpenter up
 - Horton, Cabrera and Frelick down.  Bibee, Sale and Santilan up.  Horton was a usage move. Pitching moves 2 and 3.
 - Gilbert farmed usage, Kirby up
+- Xavier Edwards off IL, Kerry Carpenter down.
+- Edgar Quero down, JT Realmuto up. Position move 1.
+- Jose Altuve Down, Romy Gonzalez up. Position move 2.
+- Brent Rooker down, Sal Frelick up. Position move 3.
+- Tyler Stephenson, Elly De La Cruz up. September call ups.
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
@@ -49,6 +58,9 @@
 - Adam to IL, Jensen up. 20260703
 - Polanco to IL, Bahm up
 - Polanco activated, Sosa down
+- Ian Happ and Shane Smith september call ups.
+- Marsee Farmed for usage, Ramirez up 
+- Adam Activated Jensen farmed 
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -61,7 +73,9 @@
 - Finnegan down, Brash up, Pitching move #2. 20260718
 - Seager off IL, Trout down
 - Gray up, Williams down. Pithing move #3.
-- Leither farmed, Williams up. Pitching move #4.
+- Leiter farmed, Williams up. Pitching move #4.
+- Gavin Williams down, Jack Leiter up. Pitching move 5.
+- Jonathan Aranda, Manuel Rodriguez. September call ups.
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
@@ -71,7 +85,10 @@
 - Giolito off IL, Kolek down. 20260708
 - O'Brien down after trading for him.
 - Sousa farmed for usage, Bautista up
-
+- Matt Svanson down, Riley O’Brien up. Usage move.
+- Brice Johnson, Salvador Perez. September call ups.
+- Lucas Giolito to IL, Michael King up.
+- Reese Olson down, Clayton Kershaw up. Usage move.
 
 **Monticello Devil Dogs**
 - Steven Okert down, Jacob Misiorowski up. Pitching move 1
@@ -93,6 +110,7 @@
 - Ryan to IL, Eury Perez up
 - Perez down (usage), Cruz up
 - Strider to IL, Estrada up
+- Joe Ryan, Jackson Holliday off IL. September call ups?
 
 **South Carolina Rebels**
 - Luis Castillo down, MacKenzie Gore up. Pitching move 1
@@ -105,5 +123,10 @@
 - Aaron Judge to IL, Mangum up 20260719
 - Nelson activated from IL, Baz demoted
 - Judge ativated, Mangum down
-- Chandler Simpson down usage
-- Raisel Iglesias down usage
+- Raisel Iglesias down, Pete Fairbanks up. Usage move.
+- Chandler Simpson down, Jake Mangum up. Usage move.
+- Freddy Fermin to IL, Patrick Bailey up.
+- Freddy Fermin off IL, Patrick Bailey down.
+- Noah Cameron to IL, Parker Messick up.
+- Josh Hader down, Tyler Holton up. Usage move.
+- Luis Castillo, Kyle Manzardo. September call ups.
