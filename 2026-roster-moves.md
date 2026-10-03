@@ -22,6 +22,7 @@
 - Keaschall promoted, Varsho down. Hitter move #1
 - Gunnar Henderson, Brayden Fisher. September call ups.
 - Luke Keaschall down, DL Hall up. Usage move.
+- Eovaldi down (usage), Ragans up
 
 **Chester Royal Raiders**
 - Spencer Torkelson down, Trevor Megill up. Pitching move 1
@@ -76,6 +77,7 @@
 - Leiter farmed, Williams up. Pitching move #4.
 - Gavin Williams down, Jack Leiter up. Pitching move 5.
 - Jonathan Aranda, Manuel Rodriguez. September call ups.
+- Donavon to IL, Hy Kim promoted, Rodriguez farmed (usage), Finnegan promoted
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
