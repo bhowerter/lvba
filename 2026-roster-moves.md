@@ -52,6 +52,7 @@
 - Jose Altuve Down, Romy Gonzalez up. Position move 2.
 - Brent Rooker down, Sal Frelick up. Position move 3.
 - Tyler Stephenson, Elly De La Cruz up. September call ups.
+- E Cabrera promoted, Carpenter promoted, Rooker promoted (usage replacements)
 
 **Fruitland Park Trash Pandas**
 - Brayan Bello to IL, Corbin Burnes up. 20260517
@@ -62,6 +63,7 @@
 - Ian Happ and Shane Smith september call ups.
 - Marsee Farmed for usage, Ramirez up 
 - Adam Activated Jensen farmed 
+- Marsh and Alavarez farmed (usage), Sosa and Burnes up
 
 **Hotlanta Hustlers**
 - Hunter Greene to IL, Blake Snell up
@@ -78,6 +80,8 @@
 - Gavin Williams down, Jack Leiter up. Pitching move 5.
 - Jonathan Aranda, Manuel Rodriguez. September call ups.
 - Donavon to IL, Hy Kim promoted, Rodriguez farmed (usage), Finnegan promoted
+- Alcantara promoted, Gray farmed. Pitching move 6.
+- williams promoted, McLean down 
 
 **Minneola Knights**
 - Bennett Sousa to IL, Felix Bautista up
@@ -132,3 +136,4 @@
 - Noah Cameron to IL, Parker Messick up.
 - Josh Hader down, Tyler Holton up. Usage move.
 - Luis Castillo, Kyle Manzardo. September call ups.
+- Cameron activated, Messick down.
